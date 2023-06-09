@@ -9,4 +9,4 @@ if ingreso_mensual > 6000:
     elif ingreso_mensual - gasto_mensual > 3000:
         print("tas viviendo tranquilo hermano")
     else:
-        print("ponete las pilas pa")
+        print("ponete las pilas paa")
