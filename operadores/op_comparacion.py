@@ -3,7 +3,6 @@ igual_que = 3 == 3
 
 distinto_que = 3 != 9
 
-
 mayor_que = 5 > 3
 
 menor_que = 5 < 3
@@ -21,7 +20,6 @@ b = 25
 c = 100
 
 comparacion = a + b < c
-
 
 
 

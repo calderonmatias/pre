@@ -15,28 +15,18 @@ busqueda = cadena2.find("n")
 #index si no encuentra el dato que pusiste,va a devolverte un error
 busqueda2 = cadena2.index("actualidad")
 
-
+#contar caracteres
 contar_caracteres = len(cadena2)
-print(contar_caracteres)
 
 
 
 
 
-
-
-
-
-
-
+#ejemplo para eliminar espacios y preguntar si es alpha 
 cadena2 = "no se que poner asi voy a estar improvisando con lo que me venga a la mente 11 en estos momentos de la actualidad" 
 texto_sin_espacios = cadena2.replace(" ", "")
-print(texto_sin_espacios)
-
 texto_sin_espacios = mayusc.isalpha()
-print(texto_sin_espacios)
 contar_coincidencias = cadena2.count("a")
-print(contar_coincidencias)
 
 
 
@@ -44,7 +34,27 @@ print(contar_coincidencias)
 #devuelve true si es correcto la letra con la que empieza la cadena
 
 empieza_con= cadena2.startswith("K")
-print(empieza_con) 
+ 
+
+cadena_termina = cadena2.endswith("d")
+
+#remplazar texto
+remplazar_texto = cadena2.replace("e" , "a")
+
+#separar con comas
+#[numero] para ver que palabra esta en ese lugar
+separar_palabras = cadena2.split()
+print(separar_palabras [2])
+
+
+
+
+
+
+
+
+
+
 
 
 
