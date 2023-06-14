@@ -25,6 +25,9 @@ print(lista)
 
 #eliminando un elemento por su indice
 lista.pop(0)
+print(lista)
+
+
 
 
 
