@@ -24,7 +24,8 @@ lista.extend(["cibernetico","cuarto año secundaria"])
 print(lista)
 
 #eliminando un elemento por su indice
-lista.pop(0)
+#para eliminar el ultimo elemento de la lista, se pone -1,si queremos el antepenultimo ponemos -2, y asi susesivamente
+lista.pop()
 print(lista)
 
 
