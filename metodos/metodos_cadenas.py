@@ -1,3 +1,6 @@
+#print(dir(lista))
+#muestra todo lo que podemos hacer con eso
+
 cadena1 = "ASHEEEEEEEE"
 cadena2 = "noo se que poner asi voy a estar improvisando con lo que me venga a la mente 11 en estos momentos de la actualidad"
 
@@ -10,7 +13,7 @@ inicial_mayus = cadena1.capitalize()
 #recordar siempre se arranca del 0 a contar
 
 busqueda = cadena2.find("n")
-
+print(busqueda)
 
 #index si no encuentra el dato que pusiste,va a devolverte un error
 busqueda2 = cadena2.index("actualidad")
@@ -45,6 +48,8 @@ remplazar_texto = cadena2.replace("e" , "a")
 #[numero] para ver que palabra esta en ese lugar
 separar_palabras = cadena2.split()
 print(separar_palabras [2])
+
+
 
 
 

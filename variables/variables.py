@@ -11,3 +11,5 @@ print(bienvenido)
     #operadores de pertenencia (in / not in)
 print("ola" in bienvenido) #true porque "ola" se enecuentra dentro del string
 print("ola" not in bienvenido)#false
+
+
