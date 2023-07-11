@@ -12,4 +12,12 @@ print(bienvenido)
 print("ola" in bienvenido) #true porque "ola" se enecuentra dentro del string
 print("ola" not in bienvenido)#false
 
+z = -87.7e100
+print(type(z))
+
+a = "Hello, World!"
+print(a[1])
+
+for x in "banana":
+  print(x)
 

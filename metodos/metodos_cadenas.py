@@ -34,6 +34,8 @@ contar_coincidencias = cadena2.count("a")
 
 
 
+
+
 #devuelve true si es correcto la letra con la que empieza la cadena
 
 empieza_con= cadena2.startswith("K")
@@ -53,12 +55,14 @@ print(separar_palabras [2])
 
 
 
+b = "Hello, World!"
+print(b[2:5])
 
 
+b = "       Hello, World!"
+print(b[2:])
 
-
-
-
+print(b.strip())
 
 
 

@@ -1,20 +1,21 @@
-#pedirle un numero
+dni = input("Ingrese su dni: ")
+edad = input("Ingrese su edad: ")
 
-masculino = 1
-femenino = 2
+diccionario = {dni: edad}
 
+contraseña = "Maticaldeproxd56"
 
-genero = input("""elija un numero segun su genero:
-               -1 masculino
-               -2 femenino: 
-               - """)
-
-if genero == masculino:
-    print("masculino")
-elif genero == femenino:
-    print("femenino")
+contra = input("ingrese la contraseña para ver su numero de dni y su edad:")
 
 
+
+if contra == contraseña:
+    print(diccionario)
+else:    
+    print(f"contraseña incorrecta, intente nuevamente")
+    
+    
+    
 
     
     
