@@ -15,7 +15,10 @@ else:
     print(f"contraseña incorrecta, intente nuevamente")
     
     
-    
+# IMPORTANTE: "a" * 2 = "aa"(esto es porque le damos un txt,por lo tanto, se duplica) 
+#              2 * 2 = 4 (calculo aritmetico)
+
+
 
     
     
