@@ -16,4 +16,11 @@ numero = round(41.72471461,2)
 print(numero)
 
 
+#funcion bool
+#retorn false = 0,vacio,False, none 
+#retorna true numeros distintos a 0, True, cadenas, datos no vacios
+resultado_bool = bool()
+print(resultado_bool)
+
+#funcion all
 
