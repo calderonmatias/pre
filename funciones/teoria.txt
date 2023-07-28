@@ -1,0 +1,5 @@
+-al-gunas funciones son print,type,input,range,lend,ennumerate
+-son codigo que ya estan creados,o sea que ya estan escritos por Python
+-para poder reutilizarlo cuando queramos
+-es para no hacer cyp,simplemente hacer una referencia
+-sirve para no repetir codigo

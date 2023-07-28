@@ -12,7 +12,7 @@ print("--------------------------")
 
 print("El curso de Dalto dura:")
 # calcular porcentajes de duracion entre curs
-porcentaje_entre_dalto_otro_curso_minim = 100 - (curso_dalto / curso_otro_minimo * 100)
+porcentaje_entre_dalto_otro_curso_minim = round(100 - (curso_dalto / curso_otro_minimo * 100))
 porcentaje_entre_dalto_otro_curso_prom = 100 - (curso_dalto / curso_otro_promedio * 100)
 porcentaje_entre_dalto_otro_curso_max = 100 - (curso_dalto *1000 // curso_otro_maximo /10)
 
