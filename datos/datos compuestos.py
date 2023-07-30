@@ -1,5 +1,6 @@
 #lista
 #(se puede modificar)
+# el -1 seria el ultimo digito 
 lista = ["Manuel Carrera",16,True,1.82]
 
 

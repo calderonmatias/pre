@@ -3,3 +3,4 @@
 -para poder reutilizarlo cuando queramos
 -es para no hacer cyp,simplemente hacer una referencia
 -sirve para no repetir codigo
+-con tal de crear una funcion y asignarle algo dentro,despues pones la funcion y se ejecuta todo lo que tiene adentro
