@@ -1,5 +1,5 @@
--al-gunas funciones son print,type,input,range,lend,ennumerate
--son codigo que ya estan creados,o sea que ya estan escritos por Python
+-algunas funciones son print,type,input,range,lend,ennumerate
+-son codigo que ya estan creados,o sea que ya estan escritos por Python o tambien se pueden crear funciones propias para dictar dentro de ella lo que quieras que te devuelva
 -para poder reutilizarlo cuando queramos
 -es para no hacer cyp,simplemente hacer una referencia
 -sirve para no repetir codigo
